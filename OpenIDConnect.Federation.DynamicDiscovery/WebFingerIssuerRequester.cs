@@ -17,10 +17,10 @@ namespace OpenIDConnect.Federation.DynamicDiscovery
         private readonly HttpClient httpClient;
         private readonly IEmailIdentifierNormalizer emailIdentifierNormalizer;
 
-        public WebFingerIssuerRequester(IEmailIdentifierNormalizer emailIdentifierNormalizer)
+        public WebFingerIssuerRequester(IEmailIdentifierNormalizer emailIdentifierNormalizer, HttpClient httpClient)
         {
             this.emailIdentifierNormalizer = emailIdentifierNormalizer;
-            httpClient = new HttpClient();
+            this.httpClient = httpClient; //new HttpClient();
         }
 
 
