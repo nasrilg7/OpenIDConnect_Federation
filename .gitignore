@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OpenIDConnect.Federation.DynamicDiscovery/obj
+/OpenIDConnect.Federation.DynamicDiscovery/bin
+/.vs/OpenIDConnect.Federation
