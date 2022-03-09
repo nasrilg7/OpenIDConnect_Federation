@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenIDConnect.Federation.DynamicDiscovery", "OpenIDConnect.Federation.DynamicDiscovery\OpenIDConnect.Federation.DynamicDiscovery.csproj", "{6A9AE218-6111-40EA-B688-21421EB4A2BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicClientRegistration", "DynamicClientRegistration\DynamicClientRegistration.csproj", "{6EA34676-843D-491A-ABA9-5E73E7C26260}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIDConnect.Federation.DynamicClientRegistration", "DynamicClientRegistration\OpenIDConnect.Federation.DynamicClientRegistration.csproj", "{6EA34676-843D-491A-ABA9-5E73E7C26260}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
