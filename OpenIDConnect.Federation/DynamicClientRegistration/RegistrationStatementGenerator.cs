@@ -5,8 +5,8 @@ using JWT.Algorithms;
 using JWT.Builder;
 using JWT.Serializers;
 using System.Security.Cryptography.X509Certificates;
-using OpenIDConnect.Federation.DynamicClientRegistration.Interfaces;
-using OpenIDConnect.Federation.DynamicClientRegistration.Models;
+using OpenIDConnect.Federation.Interfaces;
+using OpenIDConnect.Federation.Models;
 
 namespace OpenIDConnect.Federation.DynamicClientRegistration
 {

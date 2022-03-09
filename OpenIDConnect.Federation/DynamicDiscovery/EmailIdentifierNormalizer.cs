@@ -1,6 +1,6 @@
 ﻿using System;
-using OpenIDConnect.Federation.DynamicDiscovery.Interfaces;
-using OpenIDConnect.Federation.DynamicDiscovery.Models;
+using OpenIDConnect.Federation.Interfaces;
+using OpenIDConnect.Federation.Models;
 
 namespace OpenIDConnect.Federation.DynamicDiscovery
 {

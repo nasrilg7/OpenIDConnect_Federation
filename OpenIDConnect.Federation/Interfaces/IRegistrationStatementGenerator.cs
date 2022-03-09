@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-using OpenIDConnect.Federation.DynamicClientRegistration.Models;
+using OpenIDConnect.Federation.Models;
 
-namespace OpenIDConnect.Federation.DynamicClientRegistration.Interfaces
+namespace OpenIDConnect.Federation.Interfaces
 {
     public interface IRegistrationStatementGenerator
     {

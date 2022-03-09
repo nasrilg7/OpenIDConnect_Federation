@@ -1,4 +1,4 @@
-﻿namespace OpenIDConnect.Federation.DynamicDiscovery.Models
+﻿namespace OpenIDConnect.Federation.Models
 {
     public class Link
     {

@@ -1,4 +1,4 @@
-﻿namespace OpenIDConnect.Federation.DynamicClientRegistration.Interfaces
+﻿namespace OpenIDConnect.Federation.Interfaces
 {
     public interface IJwtValidator
     {

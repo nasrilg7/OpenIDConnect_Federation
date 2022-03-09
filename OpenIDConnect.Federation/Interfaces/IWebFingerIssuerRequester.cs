@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using OpenIDConnect.Federation.DynamicDiscovery.Models;
+using OpenIDConnect.Federation.Models;
 
-namespace OpenIDConnect.Federation.DynamicDiscovery.Interfaces
+namespace OpenIDConnect.Federation.Interfaces
 {
     public interface IWebFingerIssuerRequester
     {

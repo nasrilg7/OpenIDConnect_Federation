@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OpenIDConnect.Federation.DynamicClientRegistration.Models
+namespace OpenIDConnect.Federation.Models
 {
     public class AuthenticationStatement
     {
