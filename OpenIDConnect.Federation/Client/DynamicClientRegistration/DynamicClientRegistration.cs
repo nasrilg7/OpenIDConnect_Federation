@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 using OpenIDConnect.Federation.Interfaces;
 using OpenIDConnect.Federation.Models;
 
-namespace OpenIDConnect.Federation.DynamicClientRegistration
+namespace OpenIDConnect.Federation.Client.DynamicClientRegistration
 {
     public class DynamicClientRegistration : IDynamicClientRegistration
     {

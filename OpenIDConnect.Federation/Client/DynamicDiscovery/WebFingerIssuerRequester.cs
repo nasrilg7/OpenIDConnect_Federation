@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Net.Http;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using System.Web;
-using Microsoft.VisualBasic.CompilerServices;
 using Newtonsoft.Json;
 using OpenIDConnect.Federation.Interfaces;
 using OpenIDConnect.Federation.Models;
 
-namespace OpenIDConnect.Federation.DynamicDiscovery
+namespace OpenIDConnect.Federation.Client.DynamicDiscovery
 {
     public class WebFingerIssuerRequester : IWebFingerIssuerRequester
     {

@@ -2,7 +2,7 @@
 using OpenIDConnect.Federation.Interfaces;
 using OpenIDConnect.Federation.Models;
 
-namespace OpenIDConnect.Federation.DynamicDiscovery
+namespace OpenIDConnect.Federation.Client.DynamicDiscovery
 {
     public class EmailIdentifierNormalizer: IEmailIdentifierNormalizer
     {

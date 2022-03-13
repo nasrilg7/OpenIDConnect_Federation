@@ -5,7 +5,7 @@ using Microsoft.IdentityModel.Protocols;
 using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 using OpenIDConnect.Federation.Interfaces;
 
-namespace OpenIDConnect.Federation.DynamicClientRegistration
+namespace OpenIDConnect.Federation.Client.DynamicClientRegistration
 {
     public class OpenIdConnectConfigurationMetadataRetriever : IOpenIdConnectConfigurationMetadataRetriever
     {
