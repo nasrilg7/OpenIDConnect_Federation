@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Linq;
-using JWT;
 using JWT.Algorithms;
 using JWT.Builder;
-using JWT.Serializers;
 using System.Security.Cryptography.X509Certificates;
 using OpenIDConnect.Federation.Interfaces;
 using OpenIDConnect.Federation.Models;
